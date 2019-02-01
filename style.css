@@ -1,3 +1,123 @@
 body {
     background-color: #CCCAC7;
 }
+
+.col-profile {
+    background-color: #302D29;
+    color: #ffffff;
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    margin:auto;
+}
+
+.col-profile img {
+    width: 176px;
+    height: auto;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-profile h1 {
+    font-family: 'Montserrat',
+    sans-serif;
+    padding-top: 36px;
+    padding-bottom: 12px; 
+}
+
+.col-profile p {
+    font-family: 'Lato',
+    sans-serif;
+}
+
+.col-profile a {
+    color: #ffffff;
+}
+
+.col-profile a:hover {
+    color: #00d2ff;
+    text-decoration: none;
+}
+
+.bullet-socmed {
+    margin: 30px 10px 10px;
+    text-align: center;
+}
+
+.bullet-socmed a{
+    background-color: #ffffff;
+    color: #302D29;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    font-weight: normal;
+    border-radius: 50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    margin: 0 5px 0;
+}
+
+@media (min-width: 1281px) {
+    #container-login {
+        padding-top: 60px;
+    }
+
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .col-profile {
+        width: 600px;
+        height: 550px;
+        padding: 40px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .col-profile {
+        width: 600px;
+        height: 550px;
+        padding: 40px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    body {
+        background-color: #302D29;
+    }
+    
+    .col-profile {
+        width: 100%;
+        height: 100%;
+        padding: 40px;
+    }
+
+    .bullet-socmed {
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    body {
+        background-color: #302D29;
+    }
+    
+    .col-profile {
+        width: 100%;
+        height: 100%;
+        padding: 40px;
+    }
+
+    .bullet-socmed {
+        margin-bottom: 20px;
+    }
+}
