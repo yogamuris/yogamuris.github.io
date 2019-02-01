@@ -67,11 +67,11 @@ body {
 }
 
 @media (min-width: 1281px) {
-    #container-login {
-        padding-top: 60px;
+    .col-profile {
+        width: 600px;
+        height: 550px;
+        padding: 40px;
     }
-
-
 }
 
 @media (min-width: 1025px) and (max-width: 1280px) {
