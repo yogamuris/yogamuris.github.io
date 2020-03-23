@@ -3,7 +3,8 @@ body {
 }
 
 .col-profile {
-    background-color: #302D29;
+/*     background-color: #302D29; */
+    background-color: #4E6052;
     color: #ffffff;
     position:absolute;
     left:0;
