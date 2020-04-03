@@ -26,21 +26,24 @@ body {
 .col-profile h1 {
     font-family: 'Montserrat',
     sans-serif;
-    padding-top: 36px;
-    padding-bottom: 12px; 
+    padding-top: 24px;
+    padding-bottom: 0px;
+    margin-bottom: 0px; 
 }
 
 .col-profile p {
     font-family: 'Lato',
     sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
-.col-profile a {
-    color: #ffffff;
+.col-profile p a {
+    color:#2CA3F3;
 }
 
-.col-profile a:hover {
-    color: #00d2ff;
+.col-profile p a:hover {
+    color: #92c2cc;
     text-decoration: none;
 }
 
