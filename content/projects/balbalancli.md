@@ -23,6 +23,8 @@ series:
 ## Introduction
 BalbalanCLI is a simple CLI application that can show the latest football score and league standing.
 
+Repository link [here](https://github.com/yogamuris/balbalancli).
+
 ## Getting Started
 Ensure that Go is installed in your computer.
 
