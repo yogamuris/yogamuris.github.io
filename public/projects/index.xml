@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Adhi Yoga</title>
+    <link>https://yogakarta.id/projects/</link>
+    <description>Recent content in Projects on Adhi Yoga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yogakarta.id/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid 19 Dashboard</title>
+      <link>https://yogakarta.id/projects/cov19dashboard/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/cov19dashboard/</guid>
+      <description>About this project This is my project to show the dashboard about Covid 19 case in Indonesia.
+This project can be access through this link.</description>
+    </item>
+    
+    <item>
+      <title>BalbalanCLI</title>
+      <link>https://yogakarta.id/projects/balbalancli/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/balbalancli/</guid>
+      <description>Introduction BalbalanCLI is a simple CLI application that can show the latest football score and league standing.
+Repository link here.
+Getting Started Ensure that Go is installed in your computer.
+Setup the API Key To get the API Key, please register to football-data.org. After getting the API Key or Token, then add your API Key through balbalancli config --token YOUR_API_KEY command.
+Installation Run
+go get -u github.com/yogamuris/balbalancli Usage Available league    Code League     PL English Premier League   PD Primera Division La Liga   SA Serie A   BL1 Bundesliga   FL1 Ligue One   DED Eredivisie   PPL Primeira Liga   CL UEFA Champions League    Available Command balbalancli [command] Available Commands: config Setting the BalbalanCLI Configuration.</description>
+    </item>
+    
+    <item>
+      <title>BalbalanCLI</title>
+      <link>https://yogakarta.id/projects/sivaapp/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/sivaapp/</guid>
+      <description>Introduction BalbalanCLI is a simple CLI application that can show the latest football score and league standing.
+Repository link here.
+Getting Started Ensure that Go is installed in your computer.
+Setup the API Key To get the API Key, please register to football-data.org. After getting the API Key or Token, then add your API Key through balbalancli config --token YOUR_API_KEY command.
+Installation Run
+go get -u github.com/yogamuris/balbalancli Usage Available league    Code League     PL English Premier League   PD Primera Division La Liga   SA Serie A   BL1 Bundesliga   FL1 Ligue One   DED Eredivisie   PPL Primeira Liga   CL UEFA Champions League    Available Command balbalancli [command] Available Commands: config Setting the BalbalanCLI Configuration.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yogakarta.id/projects/evote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/evote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yogakarta.id/projects/rdml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/rdml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yogakarta.id/projects/urlshortener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/urlshortener/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
