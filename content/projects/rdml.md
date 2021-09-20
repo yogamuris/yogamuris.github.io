@@ -19,8 +19,7 @@ series:
 
 
 ## Introduction
-A website for retinopathy diabetic prediction.
-
+A website for retinopathy diabetic prediction. To predict the retinopathy diabetic occurence, I build the model using machine learning approach. The model that i was build, publised at [this link](http://jurnal.fikom.umi.ac.id/index.php/ILKOM/article/view/578).
 
 This project can be access through [this link](https://adyglr.herokuapp.com/).
 

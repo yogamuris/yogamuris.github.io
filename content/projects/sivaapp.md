@@ -6,8 +6,6 @@ author:
 date: 2019-08-14
 linktitle: sivaapp
 toc: true
-# cover: "/image/BalbalanCLI.jpg"
-# covercaption: "BalbalanCLI - A CLI application for the football lover"
 type:
 - post
 - posts
