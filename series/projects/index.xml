@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Adhi Yoga</title>
+    <link>https://yogakarta.id/series/projects/</link>
+    <description>Recent content in Projects on Adhi Yoga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yogakarta.id/series/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sohappytocyou - A Link Personalizer</title>
+      <link>https://yogakarta.id/projects/sohappytocyou/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/sohappytocyou/</guid>
+      <description>Introduction Sohappytocyou is a link personalizer that can personalize your favourite link, or personalize link that you want to share or recommend to your friend or audience.
+Tech Stack I build this using Golang as the backend language and MySql as the database. This project not yet published.</description>
+    </item>
+    
+    <item>
+      <title>BalbalanCLI</title>
+      <link>https://yogakarta.id/projects/balbalancli/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/balbalancli/</guid>
+      <description>Introduction BalbalanCLI is a simple CLI application that can show the latest football score and league standing.
+Repository link here.
+Getting Started Ensure that Go is installed in your computer.
+Setup the API Key To get the API Key, please register to football-data.org. After getting the API Key or Token, then add your API Key through balbalancli config --token YOUR_API_KEY command.
+Installation Run
+go get -u github.com/yogamuris/balbalancli Usage Available league    Code League     PL English Premier League   PD Primera Division La Liga   SA Serie A   BL1 Bundesliga   FL1 Ligue One   DED Eredivisie   PPL Primeira Liga   CL UEFA Champions League    Available Command balbalancli [command] Available Commands: config Setting the BalbalanCLI Configuration.</description>
+    </item>
+    
+    <item>
+      <title>Covid 19 Dashboard</title>
+      <link>https://yogakarta.id/projects/cov19dashboard/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/cov19dashboard/</guid>
+      <description>About this project This project is a website that display about COVID-19 cases in Indonesia.
+This project can be access through this link.
+Tech Stack I used Python as the backend language with Flask Framework. For the chart I used the highchart and CARTO.</description>
+    </item>
+    
+    <item>
+      <title>SIVA App</title>
+      <link>https://yogakarta.id/projects/sivaapp/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/sivaapp/</guid>
+      <description>Introduction SIVA (Sistem Informasi Inventaris dan Akuntansi) adalah aplikasi yang dapat membantu pengguna dalam melakukan pencatatan keuangan dan inventaris. Aplikasi ini memiliki beberapa fitur, diantaranya:
+ Pencatatan inventaris masuk dan keluar Manajemen stok Pencatatan invoice Pencatatan pemasukan dan pengeluaran Pencatatan hutang dan piutang  Tech Stack I used PHP as the backend with Laravel framework and MySQL as the database.</description>
+    </item>
+    
+    <item>
+      <title>Retinopathy Diabetic Prediction</title>
+      <link>https://yogakarta.id/projects/rdml/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/rdml/</guid>
+      <description>Introduction A website for retinopathy diabetic prediction. To predict the retinopathy diabetic occurence, I build the model using machine learning approach. The model that i was build, publised at this link.
+This project can be access through this link.
+Tech Stack Prediction model developed with Python and sklearn library. I used Python as the backend with Flask framework.</description>
+    </item>
+    
+    <item>
+      <title>Bikin.pw - An URL Shortener</title>
+      <link>https://yogakarta.id/projects/bikinpw/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogakarta.id/projects/bikinpw/</guid>
+      <description>Introduction Bikinpw is an url shortener platform that can customizing your url into memorable url. This project available at github
+Tech Stack I used Python as Backend and simple Javascript for frontend interaction.</description>
+    </item>
+    
+  </channel>
+</rss>
